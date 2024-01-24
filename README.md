@@ -13,6 +13,8 @@ It cleans the HTML content using `readability-lxml` and removes iframes before s
 - Saves the cleaned HTML content as `.html` files.
 - Adds the source URL as a comment to the saved file using `appscript` for MacOS Finder integration.
 
+![Alt text](https://github.com/SurgeonTalus/HTML-Clutter-Remover-Bulk-CSV-Keeps-ImageANDTekst/raw/main/ExamplePageFontPrecerved.png)
+
 ## Requirements
 
 - Python 3
