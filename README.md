@@ -15,6 +15,7 @@ It cleans the HTML content using `readability-lxml` and removes iframes before s
 
 ![Alt Text](https://github.com/SurgeonTalus/HTML-Clutter-Remover-Bulk-CSV-Keeps-ImageANDTekst/raw/main/ExamplePageFontPrecerved.png)
 
+![Alt Text](https://raw.githubusercontent.com/SurgeonTalus/HTML-Clutter-Remover-Bulk-CSV-Keeps-ImageANDTekst/main/ExamplePageFontPrecerved.png)
 
 ## Requirements
 
