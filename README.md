@@ -1,5 +1,7 @@
 ```markdown
 # URL to HTML Converter
+## Bug
+Folders where files are stored CANT HAVE SPACE
 
 This tool allows you to convert URLs listed in a CSV file to HTML files.
 It cleans the HTML content using `readability-lxml` and removes iframes before saving to remove ads
